@@ -1,0 +1,5 @@
+001,Sam,CSE101,present
+001,Sam,MAT202,present
+002,Elvis,CSE101,absent
+002,Elvis,ENG001,absent
+003,Nicole,ENG001,present
